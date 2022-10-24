@@ -142,3 +142,6 @@ Quantum_tasks/saved_results_wave
 #Executable
 WF_gen/wfg
 WF_gen/tensproduct.mod
+
+#Other
+.DS_Store
